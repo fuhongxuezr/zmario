@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario64HD.CSharp.Plugins", "SuperMario64HD.CSharp.Plugins.csproj", "{E7A75A30-5840-4F97-A790-B1CBB1A5B693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario64HD.CSharp", "SuperMario64HD.CSharp.csproj", "{B390FE18-4A37-3DBB-2B1A-29D703777DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMario64HD.CSharp.Editor", "SuperMario64HD.CSharp.Editor.csproj", "{95FEA9E9-A0A1-D73E-157D-8CF589B17B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7A75A30-5840-4F97-A790-B1CBB1A5B693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A75A30-5840-4F97-A790-B1CBB1A5B693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A75A30-5840-4F97-A790-B1CBB1A5B693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A75A30-5840-4F97-A790-B1CBB1A5B693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B390FE18-4A37-3DBB-2B1A-29D703777DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B390FE18-4A37-3DBB-2B1A-29D703777DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B390FE18-4A37-3DBB-2B1A-29D703777DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B390FE18-4A37-3DBB-2B1A-29D703777DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FEA9E9-A0A1-D73E-157D-8CF589B17B80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FEA9E9-A0A1-D73E-157D-8CF589B17B80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FEA9E9-A0A1-D73E-157D-8CF589B17B80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FEA9E9-A0A1-D73E-157D-8CF589B17B80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
